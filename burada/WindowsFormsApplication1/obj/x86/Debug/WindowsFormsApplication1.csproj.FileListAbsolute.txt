@@ -1,0 +1,1264 @@
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\nesne\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\userrr\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\userrr\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\userrr\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\userrr\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\userrr\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\userrr\Desktop\otomasyon designer\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+J:\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+J:\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+J:\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon designer23\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\userrr\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\userrr\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ogretmen\Desktop\otomasyon\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\otomasyon 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\otomasyon 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\otomasyon 2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Downloads\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Pc\Desktop\cz\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\cz\czsonhali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\cz\czsonhali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\cz\czsonhali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\cz\czsonhali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+J:\cz\czsonhali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+J:\cz\czsonhali\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+J:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\cz\czsonhali\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\otomasyonburada\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\otomasyonburada\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Downloads\otomasyonburada\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ogretmen\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\tetet\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\tetet12\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ccz\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ccz123\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ccz123\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ccz123\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\buuuu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\buuuu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\buuuu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\rwrw\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\rwrw\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\rwrw\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ennnnnson\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\ensonunsonu\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\yeni\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\yeni\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\yeni\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\yeni\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\yeni\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\yenininyenisi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\yeninin5.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin55.kusgi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\yeninin6.kusagi - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecarebol\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\hackerlerecareboltamamlandi\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ogretmen\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\ss\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ \yeniotomasyonhal\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+F:\ \yeniotomasyonhal\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ \yeniotomasyonhal\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\ \yeniotomasyonhal\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ \yeniotomasyonhal\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\v2\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ \v22\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ \v22\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ \v22\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\ \v22\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ \v22\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \yass\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \yass\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Downloads\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\yass\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ \otomasyon32\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ \otomasyon32\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ \otomasyon32\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\ \otomasyon32\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+F:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ \otomasyon32\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ \otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\otomasyon33\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon34\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\otomasyon35\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ \otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ \OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\YENI KLASÖR\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\ \BUGUNKUOTOMASYON\BUGUNKUOTOMASYON\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\ \BUGUNKUOTOMASYON\BUGUNKUOTOMASYON\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\ \BUGUNKUOTOMASYON\BUGUNKUOTOMASYON\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\ \BUGUNKUOTOMASYON\BUGUNKUOTOMASYON\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\ \BUGUNKUOTOMASYON\BUGUNKUOTOMASYON\OTOMASYON37 - KOPYA - KOPYA\BURADA\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\bugunkuotomasyon\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ogrenci\Desktop\ben\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\otomasyon38\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Downloads\otomasyon38-sari\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ogrenci\Downloads\otomasyon40\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\otomasyon41\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\otomasyon42\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\otomasyon42enyeni\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+D:\otomasyon42enyeni\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\otomasyon42enyeni\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+D:\otomasyon42enyeni\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\otomasyon42enyeni\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\otomasyon37 - Kopya - Kopya\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Pictures\sinema_otomasyonu\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\AppData\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kullanıcı\Saved Games\Desktop\SİNEMA_OTOMASYONU-okula\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SİNEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+J:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+J:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+J:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+J:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+J:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.bilet.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.biletal.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmbilgileri.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmekle.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.filmseccs.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kullanicigiris.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.kayitgiris.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yasemin\Desktop\yasemin\SINEMA_OTOMASYONU\sinema_otomasyonuvisual\burada\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
